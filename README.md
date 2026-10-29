@@ -1,5 +1,5 @@
 # Furuta-Inverted-Pendelum
-Design and implementation of a real Furuta inverted pendulum, comparing PID and LQR controllers
+Design and implementation of a real Rotatory inverted pendulum (Furuta), Design and comparing PID and LQR controllers
 
 1. Derived non-linear state-space equations of the actual system with Euiler-Lagrange method.
 2. Created a 3D multibody simulation in Matlab Simscape.
@@ -8,7 +8,7 @@ Design and implementation of a real Furuta inverted pendulum, comparing PID and 
 5. Implemented the Controllers on an experimental physical plant.
 6.  Compared PID and LQR in transient answer parameters, control effort parameters and error.
 
-# A sample of a Furuta Inverted Pendulum
+# A sample model of a Furuta Inverted Pendulum
 <img width="238" height="298" alt="image" src="https://github.com/user-attachments/assets/f94c6c48-46ec-4e72-811d-74c765750809" />
 
 
